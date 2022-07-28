@@ -80,6 +80,7 @@ Overall, all 4 statistical testing methods shows that ARIMA has better performan
 * Consider comparing with seasoned trader
 * Make program user friendly
 * Build AWS bot for better user experience
+* Look into Deep AR - https://github.com/aws-samples/amazon-sagemaker-stock-prediction-archived/blob/master/notebooks/dbg-deepar.ipynb
 
 
 ## Contributors
